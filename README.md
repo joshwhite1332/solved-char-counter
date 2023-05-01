@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-char-counter
+<br>
+Write a Java program that gets a phrase from the user. Then use a for loop to examine each letter of the phrase. Print out the position and character found at that position. Count how many times an A, E, I, O, or U appears in the phrase. Your program should print out the character in the original case entered by the user, but should treat a and A the same when counting them.
